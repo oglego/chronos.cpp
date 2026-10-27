@@ -6,3 +6,6 @@ golden/tiny
 
 # Golden scripts
 scripts/golden
+# Converted models
+models/
+*.gguf

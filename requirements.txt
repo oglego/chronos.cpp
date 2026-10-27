@@ -1,0 +1,9 @@
+# dump_golden.py (reference PyTorch run)
+torch
+transformers
+chronos-forecasting
+# convert_to_gguf.py (no torch needed)
+numpy
+gguf
+safetensors
+huggingface_hub
