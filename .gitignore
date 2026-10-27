@@ -1,0 +1,8 @@
+# Virtual environment
+.venv
+
+# Golden files
+golden/tiny
+
+# Golden scripts
+scripts/golden
